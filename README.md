@@ -8,7 +8,7 @@ Team Members:
 * [@Jacob Hoover](https://github.com/Jakehoov1/SQLGroupProject2)
 * [@Ryan Restino](https://github.com/rrestinoRyan-Restino-MIST4610-GroupProject2)
 * [@Mason Sprinkle](https://github.com/masonSprinkle/21479)
-* [@Owen Swonger]()
+* [@Owen Swonger](https://github.com/ocs08576/21479)
 
 
 ## The Dataset
@@ -52,10 +52,28 @@ This question is relevant to management at the company because it will help them
     2. AVG(score)
 
 
-![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479/main/Screen%20Shot%202023-04-26%20at%2012.15.14%20PM.png)
+![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479/main/Screen%20Shot%202023-04-27%20at%205.17.02%20PM.png)
 
 
 ## Explanation of Question #1
+It is worth noting that the U.S and some other large markets are not within the top 20 scores. This is likely due to the fact that while producing a larger number of movies, there will be more variance relating to both high and low scores, ultimately bringing the average down. 
+
+As you can see from our visualizations:
+    
+    The United States has an average score of 6.257.
+    However, the United States also has 71.40% of all 
+    movies produced. Because of this massive difference 
+    in number of movies, the U.S average will be lower  
+    as a result of both good and bad movies being 
+    produced.
+
+    Lebanon has the highest average score of 8. Yet they 
+    make up 0.01% of all movies produced in this data  
+    set.
+
+Understanding this information is important in interpreting the data. However, it is also important to note that although some countries produce less movies, their scores are still valid. 
+
+
 ## Question #2: In the top 10 countries (based on average scores of movies produced in that country), what is the average budget over the entire timeline of data?
 
 This question is relevant to management because it allows them to see what the average amount they are spending on movies that are scoring the best. This will give them an idea of how much money they should plan to spend in the future. This allows for management to have a better holistic view of their expenditures and better plan for future operations. 
