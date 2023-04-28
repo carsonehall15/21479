@@ -100,7 +100,7 @@ Understanding this information is important in interpreting the data. However, i
 
 ## Question #2: Of countries from 2000 to present with over ten movies and a top ten average gross revenue per movie, which ten offer the highest return on investment? 
 
-This question would be important for an executive to determine where in which country it might be the most profitable to produce a movie within. Additionally, this country generates a relatively general baseline direction of where business might be most profitable that could lead to more specific analysis depending on decisions made at this level. 
+This question would be important for an executive to determine in which country it might be the most profitable to produce a movie within. This identifies movies thats profit has greatly exceeded its budget therefore making up for the costs of producing the movie. Looking at Return on Investment for various projects will allow executives in the future to know what projects to spend time on. 
 
     Attributes we used for Budget vs. Gross Revenue analysis: 
     1. budget
