@@ -6,7 +6,7 @@ Team Name: 21479_2
 Team Members:
 * [@CarsonHall](https://github.com/carsonehall15/21479)
 * [@Jacob Hoover](https://github.com/Jakehoov1/SQLGroupProject2)
-* [@Ryan Restino](https://github.com/rrestinoRyan-Restino-MIST4610-GroupProject2)
+* [@Ryan Restino](https://github.com/rrestino/Ryan-Restino-MIST4610-GroupProject2)
 * [@Mason Sprinkle](https://github.com/masonSprinkle/21479)
 * [@Owen Swonger](https://github.com/ocs08576/21479)
 
@@ -16,7 +16,14 @@ Team Members:
 
 * [DATA SET](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
-The data set we chose focuses on the movie industry. It has various quantitative and qualitative attributes. These attributes provided us with knowledge about various aspects of the industry and we then asked two different questions to analyze the data. 
+The data set we chose focuses on the movie industry. It has various quantitative and qualitative attributes. These attributes provided us with knowledge about various aspects of the industry and we then asked two different questions to analyze the data.
+
+    1. In the top 20 countries (based on average scores of 
+    movies produced in that country), what is the most popular 
+    genre (based on score)?
+    2. Of countries from 2000 to present with over ten movies 
+    and a top ten average gross revenue per movie, which ten 
+    offer the highest return on investment? 
 
 Our data set contains 15 columns
 
@@ -41,7 +48,7 @@ Our data set contains 6820 movies (rows), some having all of the attributes and 
 
 ## Question #1: In the top 20 countries (based on average scores of movies produced in that country), what is the most popular genre (based on score)?
 
-This question is relevant to management at the company because it will help them to determine their target audience in each country based on the most popular genre that customers and critics like, as well as how the movies are scoring. This way, management can prioritize these genres and maximize profits in these areas.
+This question is relevant to management at the company because it will help them to determine their target audience in each country based on the most popular genre that customers and critics like as well as how the movies are scoring. This way, management can prioritize these genres and maximize profits in these areas.
 
 
     Attributes we used for analysis in Map visualization: 
@@ -95,7 +102,7 @@ Understanding this information is important in interpreting the data. However, i
 
 This question would be important for an executive to determine where in which country it might be the most profitable to produce a movie within. Additionally, this country generates a relatively general baseline direction of where business might be most profitable that could lead to more specific analysis depending on decisions made at this level. 
 
-    Attributes we used for Budget vs. Gross Revenue analysis: 
+    Attributes we used for Budeget vs. Gross Revenue analysis: 
     1. budget
     2. gross
     3. country
@@ -117,7 +124,7 @@ This question would be important for an executive to determine where in which co
 ![App Screenshot](https://raw.githubusercontent.com/carsonehall15/21479/main/Screen%20Shot%202023-04-27%20at%205.59.17%20PM.png)
 ## Explanation of Question #2. 
 
-The chart shows that the US, Japan, New Zealand, South Korea, Spain, Australia, United Kingdom, China, Germany, and Hong Kong have high returns on average based on the budgets and Gross revenues of movies within those countries. This data also shows a general trendline for Net with a scatterplot divided by red and blue at an ROI of zero. This shows a couple things one of which is the lower quantity of negative ROI movies as budget increases. Additionally, the trendlines given for each of the countries could be used to predict potential returns for movies created  in these countries. However, some of the smaller countries do have a lower R^2 and a lack of fit for the trendline which would cause their predictions to potentially be erroneous. These could still be potentially viable options for a new movie, but more research would likely be needed. 
+The chart shows that the US, Japan, New Zealand, South Korea, Spain, Australia, United Kingdom, China, Germany, and Honk Kong have high returns on average based on the budgets and Gross revenues of movies within those countries. This data also shows a general trendline for Net with a scatterplot divided by red and blue at an ROI of zero. This shows a couple things one of which is the lower quantity of negative ROI movies as budget increases. Additionally, the trendlines given for each of the countries could be used to predict potential returns for movies created  in these countries. However, some of the smaller countries do have a lower R^2 and a lack of fit for the trendline which would cause their predictions to potentially be erroneous. These could still be potentially viable options for a new movie, but more research would likely be needed. 
 
 ## Manipulations to Data Set for Question #2
 
